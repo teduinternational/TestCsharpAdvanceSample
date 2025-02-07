@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.1.AdvanceLinqQuery", "1.1.AdvanceLinqQuery\1.1.AdvanceLinqQuery.csproj", "{708D19A1-AFB2-451D-AB2F-F67524F82B60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.Reflection", "2.1.Reflection\2.1.Reflection.csproj", "{4E8F1AD2-B4E8-4882-847C-7F461D4F5C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.DynamicType", "2.2.DynamicType\2.2.DynamicType.csproj", "{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{708D19A1-AFB2-451D-AB2F-F67524F82B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708D19A1-AFB2-451D-AB2F-F67524F82B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708D19A1-AFB2-451D-AB2F-F67524F82B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708D19A1-AFB2-451D-AB2F-F67524F82B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E8F1AD2-B4E8-4882-847C-7F461D4F5C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8F1AD2-B4E8-4882-847C-7F461D4F5C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8F1AD2-B4E8-4882-847C-7F461D4F5C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8F1AD2-B4E8-4882-847C-7F461D4F5C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
