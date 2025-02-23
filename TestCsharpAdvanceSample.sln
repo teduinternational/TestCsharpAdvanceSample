@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.1.Reflection", "2.1.Refle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.DynamicType", "2.2.DynamicType\2.2.DynamicType.csproj", "{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.1.Multithreading", "4.1.Multithreading\4.1.Multithreading.csproj", "{9BE8F494-418B-4CCC-A97D-D5EC9F983FAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31B5C64B-6FC7-493B-9811-3D0EEA4AA940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE8F494-418B-4CCC-A97D-D5EC9F983FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE8F494-418B-4CCC-A97D-D5EC9F983FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE8F494-418B-4CCC-A97D-D5EC9F983FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE8F494-418B-4CCC-A97D-D5EC9F983FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
