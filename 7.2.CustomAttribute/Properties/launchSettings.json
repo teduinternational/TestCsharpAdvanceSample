@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "7.2.CustomAttribute": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

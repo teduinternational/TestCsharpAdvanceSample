@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.1.UnitTesting", "6.1.Unit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.3.SampleTDDTests", "6.3.SampleTDDTests\6.3.SampleTDDTests.csproj", "{D038138E-0616-473D-9FBD-968FA8C883B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.2.CustomAttribute", "7.2.CustomAttribute\7.2.CustomAttribute.csproj", "{E49C66DA-3EA1-486D-9C9F-16E6294EEC95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.3.ExpressionTree", "7.3.ExpressionTree\7.3.ExpressionTree.csproj", "{6AF915E3-814F-4F85-9F06-FB1EAB4BE0C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{D038138E-0616-473D-9FBD-968FA8C883B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D038138E-0616-473D-9FBD-968FA8C883B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D038138E-0616-473D-9FBD-968FA8C883B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E49C66DA-3EA1-486D-9C9F-16E6294EEC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E49C66DA-3EA1-486D-9C9F-16E6294EEC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E49C66DA-3EA1-486D-9C9F-16E6294EEC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E49C66DA-3EA1-486D-9C9F-16E6294EEC95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF915E3-814F-4F85-9F06-FB1EAB4BE0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF915E3-814F-4F85-9F06-FB1EAB4BE0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF915E3-814F-4F85-9F06-FB1EAB4BE0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF915E3-814F-4F85-9F06-FB1EAB4BE0C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
